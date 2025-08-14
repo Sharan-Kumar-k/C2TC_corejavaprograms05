@@ -1,4 +1,4 @@
-package day3.encapsulation;
+package day2.encapsulation;
 
 public class StudentDemo {
 
