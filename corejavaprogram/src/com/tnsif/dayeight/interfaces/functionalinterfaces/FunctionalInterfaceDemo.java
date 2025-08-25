@@ -8,7 +8,8 @@ public class FunctionalInterfaceDemo {
 		System.out.println(g.greet());
 
 		//using Lambda Expression
-		GreetInterface g1 = () -> {
+		GreetInterface g1 = (
+				) -> {
 			return "Good Afternoon";
 		};
 
